@@ -1,4 +1,4 @@
 {
-  "SERVER_URL": "http://powertv5.dyndns.org:24715",
+  "serverUrl": "http://powertv5.dyndns.org:24715",
   "enabled": true
 }
